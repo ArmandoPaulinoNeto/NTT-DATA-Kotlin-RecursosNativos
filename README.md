@@ -1,1 +1,1 @@
-# NTT-DATA-Kotlin-RecusosNativos
+# NTT-DATA-Kotlin-RecursosNativos
